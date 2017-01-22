@@ -36,3 +36,7 @@ firstWordFirstLetterFirst <- function(word1,word2){
   toReturn <- (firstWordNum <= secondWordNum)
   return(toReturn)
 }
+
+isCCGood <- function(){
+  print("Hell no!")
+}
