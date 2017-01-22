@@ -38,5 +38,5 @@ firstWordFirstLetterFirst <- function(word1,word2){
 }
 
 isCCGood <- function(){
-  print("Hell no!")
+  print("They are cunts")
 }
